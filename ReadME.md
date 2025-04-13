@@ -29,4 +29,4 @@ BlEU score metric was selected for evaluation
 
 The figure below illustrates how the datasets are used in this project
 
-![Alt text](DOCS\datasets_used.PNG)
+![Alt text](DOCS/datasets_used.PNG)
