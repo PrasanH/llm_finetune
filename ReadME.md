@@ -1,7 +1,6 @@
-##Fine-tune LLM for Language Translatio
+## Fine-tune LLM for Language Translation
 
-In this project I fine-tune an LLM for language translation from
-German to French.
+In this project I fine-tuned an LLM for language translation from German to French.
 
 #### Design Constraints:
 - First, I selected a open source dataset with pairs of inputs for the German - French language translation (Atleast 1000 pairs).
